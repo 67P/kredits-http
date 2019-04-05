@@ -1,0 +1,15 @@
+{
+  "name": "kredits-rest",
+  "version": "1.0.0",
+  "description": "HTTP REST wrapper for Kredits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "kredits-contracts": "github:67P/kredits-contracts"
+  }
+}
